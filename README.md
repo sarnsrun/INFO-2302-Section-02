@@ -1,1 +1,1 @@
-# INFO-2302-Section-02
+Javascript is programmed to validate the form before submission
